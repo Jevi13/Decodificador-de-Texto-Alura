@@ -27,4 +27,3 @@ Um dos maiores desafios enfrentados durante o desenvolvimento foi a aplicação 
 
 ![420px Screenshot](image-2.png)
 
-<video controls src="Decodificador de Texto Alura ‐ Feito com o Clipchamp.mp4" title="Video Aplicação Web "></video>
